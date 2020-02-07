@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title">title</string>
+    <string name="settings">User Settings</string>
+    <string name="alerts">View Alerts</string>
+    <string name="alerts_view">Alerts</string>
+    <string name="Filter">Filter Buses</string>
+    <string name="Filter_view">Filter Buses</string>
+    <string name="Tracker">Tracker Off</string>
+
+</resources>
