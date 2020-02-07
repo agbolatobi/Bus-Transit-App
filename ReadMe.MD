@@ -1,4 +1,5 @@
-Name: Agbola Iseoluwatobi
+## Halifax GPS APP
+**Author : Agbola Samuel**
 ID:B00802526
 
 ## Overview 
